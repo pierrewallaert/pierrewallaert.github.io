@@ -1,8 +1,1 @@
-<!doctype html>
-<html>
-<head>
-</head>
-<body>
-  <h1>Ouvert:1</h1>
-</body>
-</html>
+ouvert:1
